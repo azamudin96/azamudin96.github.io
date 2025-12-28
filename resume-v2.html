@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Muhamad Azamudin Dollah</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 9pt;
+            line-height: 1.4;
+            color: #333;
+            background: #fff;
+        }
+        a { color: #0891b2; text-decoration: none; }
+
+        .page {
+            width: 210mm;
+            min-height: 297mm;
+            padding: 0;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0;
+        }
+
+        /* Left Column */
+        .left-col {
+            padding: 25px 20px;
+        }
+
+        /* Right Column */
+        .right-col {
+            background: #f8f9fa;
+            padding: 25px 20px;
+        }
+
+        /* Header */
+        .header {
+            margin-bottom: 20px;
+        }
+        .name {
+            font-size: 24pt;
+            font-weight: 700;
+            color: #0891b2;
+            line-height: 1.1;
+        }
+        .title {
+            font-size: 11pt;
+            color: #0891b2;
+            margin: 8px 0;
+        }
+        .summary {
+            font-size: 8.5pt;
+            color: #666;
+            font-style: italic;
+            line-height: 1.5;
+        }
+
+        /* Contact */
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .contact-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 6px;
+            font-size: 8.5pt;
+        }
+        .contact-item i {
+            color: #0891b2;
+            width: 14px;
+            text-align: center;
+        }
+
+        /* Section Titles */
+        .section-title {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #333;
+            margin: 15px 0 10px 0;
+            padding-bottom: 5px;
+            border-bottom: 2px solid #0891b2;
+        }
+
+        /* Work Experience */
+        .job {
+            margin-bottom: 15px;
+        }
+        .job-title {
+            font-size: 10pt;
+            font-weight: 700;
+            color: #333;
+        }
+        .job-company {
+            font-size: 9pt;
+            color: #0891b2;
+            font-weight: 500;
+        }
+        .job-meta {
+            font-size: 8pt;
+            color: #666;
+            margin-bottom: 3px;
+        }
+        .job-desc {
+            font-size: 8pt;
+            color: #888;
+            font-style: italic;
+            margin-bottom: 5px;
+        }
+        .job ul {
+            margin-left: 15px;
+            font-size: 8.5pt;
+        }
+        .job li {
+            margin-bottom: 2px;
+        }
+
+        /* Skills */
+        .skills-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .skill-tag {
+            background: #0891b2;
+            color: white;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 8pt;
+        }
+
+        /* Projects */
+        .project {
+            margin-bottom: 12px;
+        }
+        .project-name {
+            font-size: 9pt;
+            font-weight: 600;
+            color: #333;
+        }
+        .project-date {
+            font-size: 8pt;
+            color: #666;
+        }
+        .project ul {
+            margin-left: 15px;
+            font-size: 8pt;
+            color: #555;
+        }
+        .project li {
+            margin-bottom: 2px;
+        }
+        .project a {
+            font-size: 7.5pt;
+            color: #0891b2;
+        }
+
+        /* Education */
+        .edu-item {
+            margin-bottom: 12px;
+        }
+        .edu-degree {
+            font-size: 9pt;
+            font-weight: 600;
+        }
+        .edu-school {
+            font-size: 8.5pt;
+            color: #0891b2;
+        }
+        .edu-meta {
+            font-size: 8pt;
+            color: #666;
+        }
+
+        /* Languages */
+        .lang-item {
+            margin-bottom: 5px;
+            font-size: 8.5pt;
+        }
+        .lang-name {
+            font-weight: 600;
+        }
+        .lang-level {
+            color: #666;
+            font-size: 8pt;
+        }
+
+        /* Interests */
+        .interests-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .interest-tag {
+            background: #e5e7eb;
+            color: #333;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 8pt;
+        }
+
+        @media print {
+            body { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+            .page { width: 100%; }
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <!-- LEFT COLUMN -->
+        <div class="left-col">
+            <div class="header">
+                <div class="name">Muhamad<br>Azamudin Dollah</div>
+                <div class="title">Mobile Application Developer</div>
+                <p class="summary">To develop and apply my skills and knowledge in the field of computing, improving computer care bringing new ideas to the company and continue to expand my knowledge in my passion.</p>
+            </div>
+
+            <div class="section-title">WORK EXPERIENCE</div>
+
+            <div class="job">
+                <div class="job-title">Senior Android Developer</div>
+                <div class="job-company">Reldyn Sdn Bhd (Remote)</div>
+                <div class="job-meta">04/2022 - Present · Kuala Lumpur, Malaysia</div>
+                <div class="job-desc">Mobile Application Development & Internet Marketing Company</div>
+                <ul>
+                    <li>Designed and implemented new app features aligned with user needs and business goals</li>
+                    <li>Optimized app performance, resolved bugs, and ensured smooth cross-platform functionality</li>
+                    <li>Integrated APIs and third-party services (e.g., payment, social media)</li>
+                    <li>Executed comprehensive testing to maintain app stability</li>
+                    <li>Ensured data security and compliance with industry standards</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <div class="job-title">Android Engineer</div>
+                <div class="job-company">GetGo Technologies Pte. Ltd (Remote)</div>
+                <div class="job-meta">03/2021 - 03/2022 · Singapore</div>
+                <div class="job-desc">Singapore's largest car-sharing service with 3,000+ vehicles</div>
+                <ul>
+                    <li>Develop and implement new app features using Jetpack Compose MVVM Clean Architecture</li>
+                    <li>Optimize performance and fix bugs</li>
+                    <li>Integrate APIs and third-party services</li>
+                    <li>Write and maintain unit/UI tests</li>
+                    <li>Collaborate with cross-functional teams</li>
+                    <li>Manage Google Play releases</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <div class="job-title">Mobile Application Developer</div>
+                <div class="job-company">XeerSoft Sdn Bhd (Remote)</div>
+                <div class="job-meta">11/2019 - 02/2021 · Kuala Lumpur, Malaysia</div>
+                <div class="job-desc">IT company specializing in accounting and inventory software</div>
+                <ul>
+                    <li>Android developer responsible for full app life-cycle: concept, design, build, and test</li>
+                    <li>Design and build advanced applications for the Android platform</li>
+                    <li>Collaborate with cross-functional teams to define, design, and ship new features</li>
+                    <li>Work with REST APIs and third-party libraries</li>
+                    <li>Bug fixing and improving application performance</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <div class="job-title">Network Support Engineer (Intern)</div>
+                <div class="job-company">Hospital USM</div>
+                <div class="job-meta">11/2018 - 03/2019 · Kelantan</div>
+                <ul>
+                    <li>Installing new software and hardware (servers, printers, workstations)</li>
+                    <li>Fixing network faults</li>
+                </ul>
+            </div>
+
+            <div class="section-title">EDUCATION</div>
+
+            <div class="edu-item">
+                <div class="edu-degree">Bachelor of Computer Science (Hons)</div>
+                <div class="edu-degree">Mobile Computing and Networking</div>
+                <div class="edu-school">UCSI University</div>
+                <div class="edu-meta">01/2016 - 03/2019 · CGPA: 3.20</div>
+            </div>
+
+            <div class="edu-item">
+                <div class="edu-degree">Science Stream</div>
+                <div class="edu-school">MRSM Tumpat</div>
+                <div class="edu-meta">01/2012 - 12/2013 · SPM 7A 2B</div>
+            </div>
+        </div>
+
+        <!-- RIGHT COLUMN -->
+        <div class="right-col">
+            <div class="contact-info">
+                <div class="contact-item"><span>📧</span> muhamadazamudin96@gmail.com</div>
+                <div class="contact-item"><span>📱</span> 0148308845</div>
+                <div class="contact-item"><span>📍</span> Kuala Lumpur, Malaysia</div>
+                <div class="contact-item"><span>🌐</span> <a href="https://azamudin96.github.io">azamudin96.github.io</a></div>
+                <div class="contact-item"><span>💼</span> <a href="https://linkedin.com/in/muhamad-azamudin-dollah-707203169">LinkedIn</a></div>
+                <div class="contact-item"><span>💻</span> <a href="https://github.com/azamudin96">GitHub</a></div>
+            </div>
+
+            <div class="section-title">SKILLS</div>
+            <div class="skills-grid">
+                <span class="skill-tag">Kotlin</span>
+                <span class="skill-tag">Java</span>
+                <span class="skill-tag">Jetpack Compose</span>
+                <span class="skill-tag">SwiftUI</span>
+                <span class="skill-tag">Flutter</span>
+                <span class="skill-tag">React Native</span>
+                <span class="skill-tag">Ionic</span>
+                <span class="skill-tag">RESTful APIs</span>
+                <span class="skill-tag">Firebase</span>
+                <span class="skill-tag">GetX/Provider/BLoC</span>
+                <span class="skill-tag">PHP</span>
+                <span class="skill-tag">MySQL</span>
+            </div>
+
+            <div class="section-title">PROJECTS</div>
+
+            <div class="project">
+                <div class="project-name">Be U by Bank Islam</div>
+                <div class="project-date">04/2022 - Present</div>
+                <ul>
+                    <li>Digital branchless banking with DuitNow QR, savings goals, Microtakaful</li>
+                    <li>Android native Kotlin</li>
+                </ul>
+                <a href="https://play.google.com/store/apps/details?id=com.bankislam.beu">Play Store</a>
+            </div>
+
+            <div class="project">
+                <div class="project-name">GetGo Carsharing</div>
+                <div class="project-date">03/2021 - 03/2022</div>
+                <ul>
+                    <li>Car-sharing app, revamped from XML to Jetpack Compose</li>
+                    <li>Android native Kotlin</li>
+                </ul>
+                <a href="https://play.google.com/store/apps/details?id=sg.getgo.booking">Play Store</a>
+            </div>
+
+            <div class="project">
+                <div class="project-name">AcareRehab (PERKESO)</div>
+                <div class="project-date">08/2021 - 12/2021</div>
+                <ul>
+                    <li>Rehabilitation center app for PERKESO</li>
+                    <li>Flutter</li>
+                </ul>
+                <a href="https://play.google.com/store/apps/details?id=my.gov.perkeso.rehab">Play Store</a> · <a href="https://apps.apple.com/my/app/acarerehab/id6466767442">App Store</a>
+            </div>
+
+            <div class="project">
+                <div class="project-name">Prihatin PERKESO</div>
+                <div class="project-date">05/2021 - 07/2021</div>
+                <ul>
+                    <li>SOCSO contributor app for tracking and benefits</li>
+                    <li>React Native</li>
+                </ul>
+                <a href="https://play.google.com/store/apps/details?id=my.gov.perkeso.mobileapp">Play Store</a> · <a href="https://apps.apple.com/my/app/prihatin/id1523496062">App Store</a>
+            </div>
+
+            <div class="project">
+                <div class="project-name">myOUM</div>
+                <div class="project-date">01/2021 - 04/2021</div>
+                <ul>
+                    <li>Student announcement app (Ionic to Flutter migration)</li>
+                </ul>
+                <a href="https://play.google.com/store/apps/details?id=com.oum.myoumapp">Play Store</a>
+            </div>
+
+            <div class="section-title">LANGUAGES</div>
+            <div class="lang-item">
+                <span class="lang-name">Bahasa Melayu</span>
+                <span class="lang-level">- Native</span>
+            </div>
+            <div class="lang-item">
+                <span class="lang-name">English</span>
+                <span class="lang-level">- Professional Working</span>
+            </div>
+
+            <div class="section-title">INTERESTS</div>
+            <div class="interests-grid">
+                <span class="interest-tag">Programming</span>
+                <span class="interest-tag">Gaming</span>
+                <span class="interest-tag">Explore new things</span>
+                <span class="interest-tag">Pet Care</span>
+                <span class="interest-tag">Volunteer Work</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
