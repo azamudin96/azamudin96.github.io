@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Highlights - Muhamad Azamudin Dollah</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 10pt;
+            line-height: 1.4;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 25px 35px;
+            background: #fff;
+        }
+        @media print {
+            body { padding: 15px 20px; }
+        }
+        a { color: #0066cc; text-decoration: none; }
+
+        /* Header */
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #1a5f7a;
+        }
+        .name {
+            font-size: 22pt;
+            font-weight: 700;
+            color: #1a5f7a;
+            margin-bottom: 4px;
+        }
+        .title {
+            font-size: 11pt;
+            color: #555;
+            margin-bottom: 8px;
+        }
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-bottom: 10px;
+        }
+        .stat {
+            text-align: center;
+        }
+        .stat-number {
+            font-size: 18pt;
+            font-weight: 700;
+            color: #1a5f7a;
+        }
+        .stat-label {
+            font-size: 8pt;
+            color: #666;
+            text-transform: uppercase;
+        }
+        .contact {
+            font-size: 9pt;
+            color: #555;
+        }
+
+        /* Section */
+        .section-title {
+            font-size: 11pt;
+            font-weight: 700;
+            color: #1a5f7a;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            border-bottom: 1.5px solid #1a5f7a;
+            padding-bottom: 4px;
+            margin-bottom: 12px;
+        }
+
+        /* Apps Grid */
+        .apps-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
+        .app-card {
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 12px;
+            background: #fafafa;
+        }
+        .app-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 6px;
+        }
+        .app-name {
+            font-size: 11pt;
+            font-weight: 700;
+            color: #222;
+        }
+        .app-downloads {
+            background: #1a5f7a;
+            color: white;
+            padding: 2px 8px;
+            border-radius: 10px;
+            font-size: 8pt;
+            font-weight: 600;
+        }
+        .app-company {
+            font-size: 9pt;
+            color: #1a5f7a;
+            font-weight: 500;
+            margin-bottom: 4px;
+        }
+        .app-desc {
+            font-size: 9pt;
+            color: #555;
+            margin-bottom: 6px;
+        }
+        .app-tech {
+            display: flex;
+            gap: 5px;
+            flex-wrap: wrap;
+            margin-bottom: 6px;
+        }
+        .tech-tag {
+            background: #e8f4f8;
+            color: #1a5f7a;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 8pt;
+        }
+        .app-links {
+            font-size: 8pt;
+        }
+        .app-links a {
+            margin-right: 10px;
+        }
+
+        /* Skills */
+        .skills-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 15px;
+        }
+        .skill-tag {
+            background: #1a5f7a;
+            color: white;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 9pt;
+        }
+
+        /* Footer */
+        .footer {
+            margin-top: 20px;
+            padding-top: 12px;
+            border-top: 1px solid #e0e0e0;
+            text-align: center;
+            font-size: 9pt;
+            color: #666;
+        }
+        .footer a {
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <div class="header">
+        <div class="name">MUHAMAD AZAMUDIN DOLLAH</div>
+        <div class="title">Senior Mobile Developer | Android & iOS & Flutter</div>
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-number">6+</div>
+                <div class="stat-label">Years Experience</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">43+</div>
+                <div class="stat-label">Apps Published</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">3M+</div>
+                <div class="stat-label">Total Downloads</div>
+            </div>
+        </div>
+        <div class="contact">
+            <a href="mailto:muhamadazamudin96@gmail.com">muhamadazamudin96@gmail.com</a> · +60 14-830 8845 · <a href="https://azamudin96.github.io">azamudin96.github.io</a>
+        </div>
+    </div>
+
+    <!-- Skills -->
+    <div class="skills-row">
+        <span class="skill-tag">Kotlin</span>
+        <span class="skill-tag">Jetpack Compose</span>
+        <span class="skill-tag">Swift</span>
+        <span class="skill-tag">SwiftUI</span>
+        <span class="skill-tag">Flutter</span>
+        <span class="skill-tag">React Native</span>
+        <span class="skill-tag">MVVM</span>
+        <span class="skill-tag">Clean Architecture</span>
+        <span class="skill-tag">Firebase</span>
+        <span class="skill-tag">REST APIs</span>
+    </div>
+
+    <!-- Featured Apps -->
+    <div class="section-title">Featured Applications</div>
+    <div class="apps-grid">
+        <div class="app-card">
+            <div class="app-header">
+                <span class="app-name">Be U by Bank Islam</span>
+                <span class="app-downloads">1M+ downloads</span>
+            </div>
+            <div class="app-company">Reldyn Sdn Bhd (Client: Bank Islam)</div>
+            <div class="app-desc">Digital branchless banking app with DuitNow QR payments, savings goals, and microtakaful protection.</div>
+            <div class="app-tech">
+                <span class="tech-tag">Kotlin</span>
+                <span class="tech-tag">Android Native</span>
+                <span class="tech-tag">Fintech</span>
+            </div>
+            <div class="app-links">
+                <a href="https://play.google.com/store/apps/details?id=com.bankislam.beu">Play Store</a>
+            </div>
+        </div>
+
+        <div class="app-card">
+            <div class="app-header">
+                <span class="app-name">GetGo Carsharing</span>
+                <span class="app-downloads">500K+ downloads</span>
+            </div>
+            <div class="app-company">GetGo Technologies Pte. Ltd (Singapore)</div>
+            <div class="app-desc">Singapore's largest car-sharing app with 3,000+ vehicles. Led UI migration from XML to Jetpack Compose.</div>
+            <div class="app-tech">
+                <span class="tech-tag">Kotlin</span>
+                <span class="tech-tag">Jetpack Compose</span>
+                <span class="tech-tag">MVVM</span>
+            </div>
+            <div class="app-links">
+                <a href="https://play.google.com/store/apps/details?id=sg.getgo.booking">Play Store</a>
+            </div>
+        </div>
+
+        <div class="app-card">
+            <div class="app-header">
+                <span class="app-name">Easybook</span>
+                <span class="app-downloads">1M+ downloads</span>
+            </div>
+            <div class="app-company">Easybook.com (Malaysia)</div>
+            <div class="app-desc">Leading SEA travel platform for bus, train, ferry tickets and car rentals across multiple countries.</div>
+            <div class="app-tech">
+                <span class="tech-tag">Kotlin</span>
+                <span class="tech-tag">Swift</span>
+                <span class="tech-tag">Travel</span>
+            </div>
+            <div class="app-links">
+                <a href="https://play.google.com/store/apps/details?id=com.easybook.mobile">Play Store</a>
+                <a href="https://apps.apple.com/app/easybook-bus-train-ferry-car/id1032051498">App Store</a>
+            </div>
+        </div>
+
+        <div class="app-card">
+            <div class="app-header">
+                <span class="app-name">Crowdsorsa</span>
+                <span class="app-downloads">100K+ downloads</span>
+            </div>
+            <div class="app-company">Crowdsorsa (Finland)</div>
+            <div class="app-desc">Crowdsourcing platform connecting businesses with on-demand workforce for various tasks.</div>
+            <div class="app-tech">
+                <span class="tech-tag">Kotlin</span>
+                <span class="tech-tag">Jetpack Compose</span>
+            </div>
+            <div class="app-links">
+                <a href="https://play.google.com/store/apps/details?id=com.crowdsorsa">Play Store</a>
+            </div>
+        </div>
+
+        <div class="app-card">
+            <div class="app-header">
+                <span class="app-name">Prihatin PERKESO</span>
+                <span class="app-downloads">1M+ downloads</span>
+            </div>
+            <div class="app-company">SOCSO Malaysia (Government)</div>
+            <div class="app-desc">Official SOCSO app for contribution tracking, benefit calculations, and health screening access.</div>
+            <div class="app-tech">
+                <span class="tech-tag">React Native</span>
+                <span class="tech-tag">Government</span>
+            </div>
+            <div class="app-links">
+                <a href="https://play.google.com/store/apps/details?id=my.gov.perkeso.mobileapp">Play Store</a>
+                <a href="https://apps.apple.com/my/app/prihatin/id1523496062">App Store</a>
+            </div>
+        </div>
+
+        <div class="app-card">
+            <div class="app-header">
+                <span class="app-name">AcareRehab</span>
+                <span class="app-downloads">Government App</span>
+            </div>
+            <div class="app-company">PERKESO Rehabilitation Center</div>
+            <div class="app-desc">Rehabilitation center app for Pusat Rehabilitasi PERKESO with patient engagement features.</div>
+            <div class="app-tech">
+                <span class="tech-tag">Flutter</span>
+                <span class="tech-tag">Government</span>
+            </div>
+            <div class="app-links">
+                <a href="https://play.google.com/store/apps/details?id=my.gov.perkeso.rehab">Play Store</a>
+                <a href="https://apps.apple.com/my/app/acarerehab/id6466767442">App Store</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        View complete portfolio with 43+ apps at <a href="https://azamudin96.github.io">azamudin96.github.io</a><br>
+        Clients from Malaysia, Singapore, Indonesia & Finland
+    </div>
+
+</body>
+</html>
