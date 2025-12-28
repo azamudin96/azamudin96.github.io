@@ -1,0 +1,185 @@
+# Portfolio Projects Data - Saved Progress
+# Last updated: 2024-12-28
+
+## PROJECTS LIST (30 total)
+
+1. XiClock
+   - Tech: Flutter
+   - Downloads: 100+
+   - Link: https://play.google.com/store/apps/details?id=com.xeersoft.xiclock
+
+2. Petsmore - MY
+   - Tech: Java/Android
+   - Downloads: 5K+
+   - Rating: 4.2
+   - Link: https://play.google.com/store/apps/details?id=com.xeersoft.petsmore
+
+3. XiMobile
+   - Tech: Flutter
+   - Downloads: 100+
+   - Link: https://play.google.com/store/apps/details?id=com.xeersoft.ximobile
+
+4. Hup Soon MY
+   - Tech: Java/Android
+   - Downloads: 10K+
+   - Rating: 4.1
+   - Link: https://play.google.com/store/apps/details?id=com.xeersoft.hupsoonecommerce
+
+5. IPLink2U
+   - Tech: Java/Android
+   - Downloads: 1K+
+   - Rating: 4.3
+   - Link: https://play.google.com/store/apps/details?id=com.xeersoft.iplink2u
+
+6. Daboba
+   - Tech: Java/Android
+   - Downloads: 1K+
+   - Rating: 2.6
+   - Link: https://play.google.com/store/apps/details?id=com.daboba.membership
+
+7. XeerSoft E-Leave
+   - Tech: Java/Android
+   - Downloads: 1K+
+   - Rating: 5.0
+   - Link: https://play.google.com/store/apps/details?id=com.xeersoft.leavesystem
+
+8. Hi Home Hardware
+   - Tech: Java/Android
+   - Downloads: 100+
+   - Rating: 4.7
+   - Link: https://play.google.com/store/apps/details?id=com.xeersoft.hihomehardware
+
+9. Fesyen Rasa Sayang
+   - Tech: Java/Android
+   - Downloads: 5K+
+   - Rating: 4.6
+   - Link: https://play.google.com/store/apps/details?id=com.xeersoft.rasasayangmembership
+
+10. Phone Panda
+    - Tech: Java/Android
+    - Downloads: 10+
+    - Link: https://play.google.com/store/apps/details?id=com.xeersoft.todaymobileecom
+
+11. Maju Home Improvement
+    - Tech: Java/Android
+    - Downloads: 1K+
+    - Link: https://play.google.com/store/apps/details?id=com.xeersoft.kimheng
+
+12. Apple Baby House
+    - Tech: React Native
+    - Downloads: 10K+
+    - Rating: 4.7
+    - Link: https://play.google.com/store/apps/details?id=com.xeersoft.applebaby
+
+13. XeerSoft Stock Operation
+    - Tech: Java/Android
+    - Downloads: 500+
+    - Link: https://play.google.com/store/apps/details?id=com.xeersoft.stocktake
+
+14. myOUM
+    - Tech: Ionic → Flutter
+    - Downloads: 10K+
+    - Rating: 3.5
+    - Link: https://play.google.com/store/apps/details?id=com.oum.myoumapp
+
+15. JustNaik
+    - Tech: React Native
+    - Downloads: 1K+
+    - Rating: 1.7
+    - Link: https://play.google.com/store/apps/details?id=com.justnaik.android
+
+16. JustNaik Merchant
+    - Tech: Kotlin/Android
+    - Downloads: 1+
+    - Link: https://play.google.com/store/apps/details?id=com.justnaik.justnaikmerchant
+
+17. JustNaik Captain
+    - Tech: Kotlin/Android
+    - Downloads: 10+
+    - Link: https://play.google.com/store/apps/details?id=com.justnaik.captain
+
+18. GetGo Carsharing
+    - Tech: Kotlin/Jetpack Compose/Android
+    - Downloads: 500K+
+    - Rating: 3.9
+    - Link: https://play.google.com/store/apps/details?id=sg.getgo.booking
+
+19. GetGo Operator
+    - Tech: Kotlin/Android
+    - Downloads: 1K+
+    - Rating: 4.0
+    - Link: https://play.google.com/store/apps/details?id=sg.getgo.getgo_oms_android
+
+20. dUCk
+    - Tech: React Native
+    - Downloads: 10K+
+    - Rating: 3.3
+    - Link: https://play.google.com/store/apps/details?id=com.getducked.mobile
+
+21. Prihatin PERKESO
+    - Tech: React Native
+    - Downloads: 500K+
+    - Rating: 3.5
+    - Link: https://play.google.com/store/apps/details?id=my.gov.perkeso.mobileapp
+
+22. MyWorkforce
+    - Tech: React Native
+    - Downloads: 5K+
+    - Rating: 3.4
+    - Link: https://play.google.com/store/apps/details?id=my.gov.perkeso.workforce.mobileapp
+
+23. Chippi
+    - Tech: Flutter
+    - Downloads: 500+
+    - Link: https://play.google.com/store/apps/details?id=com.innoractive.chipchip.consumer
+
+24. Chippi Merchant
+    - Tech: Flutter
+    - Downloads: 100+
+    - Link: https://play.google.com/store/apps/details?id=com.innoractive.chipchip.merchant
+
+25. AcareRehab
+    - Tech: Flutter
+    - Downloads: 1K+
+    - Rating: 4.4
+    - Link: https://play.google.com/store/apps/details?id=my.gov.perkeso.rehab
+
+26. myHadir DBP
+    - Tech: Flutter
+    - Downloads: 10+
+    - Link: https://play.google.com/store/apps/details?id=com.dbp.dpb_mobile_app
+
+27. Audio+ (Formerly Hot FM)
+    - Tech: React Native
+    - Downloads: 500K+
+    - Rating: 2.5
+    - Link: https://play.google.com/store/apps/details?id=com.thisisaim.hotfm
+
+28. Journify: Travel & Lifestyle
+    - Tech: Kotlin/Android
+    - Downloads: 100K+
+    - Rating: 4.6
+    - Link: https://play.google.com/store/apps/details?id=com.journify.app
+
+29. WeHealth
+    - Tech: Kotlin/Android
+    - Downloads: 10K+
+    - Rating: 2.2
+    - Link: https://play.google.com/store/apps/details?id=connected.healthcare.checkupasia
+
+30. Lapasar Borong
+    - Tech: Flutter
+    - Downloads: 50K+
+    - Rating: 4.7
+    - Link: https://play.google.com/store/apps/details?id=com.lapasar.buyers_app
+
+
+## SUMMARY BY TECHNOLOGY
+- Java/Android: 11 apps
+- Kotlin/Android: 6 apps
+- Flutter: 8 apps
+- React Native: 5 apps
+
+## NOTABLE STATS
+- Highest downloads: GetGo Carsharing (500K+), Prihatin PERKESO (500K+), Audio+ (500K+)
+- Highest rating: XeerSoft E-Leave (5.0), Lapasar Borong (4.7), Apple Baby House (4.7)

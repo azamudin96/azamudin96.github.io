@@ -1,0 +1,68 @@
+COMPLETE PROJECTS LIST (42 Projects + 25 iOS Links)
+===================================================
+Last updated: 2024-12-28
+
+# | App Name | Tech | Downloads | Rating (Android) | Play Store | App Store | Rating (iOS)
+---|----------|------|-----------|------------------|------------|-----------|-------------
+1 | XiClock | Flutter | 100+ | - | https://play.google.com/store/apps/details?id=com.xeersoft.xiclock | https://apps.apple.com/my/app/xiclock/id6741758885 | -
+2 | Petsmore - MY | Java/Android | 5K+ | 4.2 | https://play.google.com/store/apps/details?id=com.xeersoft.petsmore | https://apps.apple.com/my/app/petsmore-my/id1583553383 | 3.3
+3 | XiMobile | Flutter | 100+ | - | https://play.google.com/store/apps/details?id=com.xeersoft.ximobile | https://apps.apple.com/my/app/ximobile/id6503229439 | -
+4 | Hup Soon MY | Java/Android | 10K+ | 4.1 | https://play.google.com/store/apps/details?id=com.xeersoft.hupsoonecommerce | https://apps.apple.com/my/app/hup-soon-my/id1624638336 | 3.4
+5 | IPLink2U | Java/Android | 1K+ | 4.3 | https://play.google.com/store/apps/details?id=com.xeersoft.iplink2u | https://apps.apple.com/my/app/goldcart-by-iplink/id1511502884 | 3.8
+6 | Daboba | Java/Android | 1K+ | 2.6 | https://play.google.com/store/apps/details?id=com.daboba.membership | https://apps.apple.com/my/app/daboba-my/id1586620029 | 2.4
+7 | XeerSoft E-Leave | Java/Android | 1K+ | 5.0 | https://play.google.com/store/apps/details?id=com.xeersoft.leavesystem | https://apps.apple.com/my/app/xeersoft-e-leave/id1511502927 | 5.0
+8 | Hi Home Hardware | Java/Android | 100+ | 4.7 | https://play.google.com/store/apps/details?id=com.xeersoft.hihomehardware | https://apps.apple.com/my/app/hi-home-hardware/id1614403923 | -
+9 | Fesyen Rasa Sayang | Java/Android | 5K+ | 4.6 | https://play.google.com/store/apps/details?id=com.xeersoft.rasasayangmembership | https://apps.apple.com/my/app/fesyen-rasa-sayang/id1517947520 | 5.0
+10 | Phone Panda | Java/Android | 10+ | - | https://play.google.com/store/apps/details?id=com.xeersoft.todaymobileecom | https://apps.apple.com/my/app/phone-panda/id1624646610 | -
+11 | Maju Home Improvement | Java/Android | 1K+ | - | https://play.google.com/store/apps/details?id=com.xeersoft.kimheng | https://apps.apple.com/my/app/maju-home-improvement/id6448981623 | 5.0
+12 | Apple Baby House | React Native | 10K+ | 4.7 | https://play.google.com/store/apps/details?id=com.xeersoft.applebaby | https://apps.apple.com/my/app/apple-baby-house/id1565097994 | 3.4
+13 | XeerSoft Stock Operation | Java/Android | 500+ | - | https://play.google.com/store/apps/details?id=com.xeersoft.stocktake | https://apps.apple.com/my/app/xeersoft-stock-operation/id1571040276 | -
+14 | myOUM | Ionic/Flutter | 10K+ | 3.5 | https://play.google.com/store/apps/details?id=com.oum.myoumapp | https://apps.apple.com/my/app/myoumapp/id1603174128 | 2.6
+15 | JustNaik | React Native | 1K+ | 1.7 | https://play.google.com/store/apps/details?id=com.justnaik.android | https://apps.apple.com/my/app/justnaik/id1571005404 | 2.0
+16 | JustNaik Merchant | Kotlin/Android | 1+ | - | https://play.google.com/store/apps/details?id=com.justnaik.justnaikmerchant | - | -
+17 | JustNaik Captain | Kotlin/Android | 10+ | - | https://play.google.com/store/apps/details?id=com.justnaik.captain | - | -
+18 | GetGo Carsharing | Kotlin/Jetpack Compose/Android | 500K+ | 3.9 | https://play.google.com/store/apps/details?id=sg.getgo.booking | - | -
+19 | GetGo Operator | Kotlin/Android | 1K+ | 4.0 | https://play.google.com/store/apps/details?id=sg.getgo.getgo_oms_android | - | -
+20 | dUCk | React Native | 10K+ | 3.3 | https://play.google.com/store/apps/details?id=com.getducked.mobile | - | -
+21 | Prihatin PERKESO | React Native | 500K+ | 3.5 | https://play.google.com/store/apps/details?id=my.gov.perkeso.mobileapp | https://apps.apple.com/my/app/prihatin/id1523496062 | 2.4
+22 | MyWorkforce | React Native | 5K+ | 3.4 | https://play.google.com/store/apps/details?id=my.gov.perkeso.workforce.mobileapp | https://apps.apple.com/my/app/myworkforce/id1545083799 | 2.7
+23 | Chippi | Flutter | 500+ | - | https://play.google.com/store/apps/details?id=com.innoractive.chipchip.consumer | https://apps.apple.com/my/app/chippi/id6736926797 | 5.0
+24 | Chippi Merchant | Flutter | 100+ | - | https://play.google.com/store/apps/details?id=com.innoractive.chipchip.merchant | https://apps.apple.com/my/app/chippi-merchant/id6717580998 | 5.0
+25 | AcareRehab | Flutter | 1K+ | 4.4 | https://play.google.com/store/apps/details?id=my.gov.perkeso.rehab | https://apps.apple.com/my/app/acarerehab/id6466767442 | 3.0
+26 | myHadir DBP | Flutter | 10+ | - | https://play.google.com/store/apps/details?id=com.dbp.dpb_mobile_app | - | -
+27 | Audio+ (Formerly Hot FM) | React Native | 500K+ | 2.5 | https://play.google.com/store/apps/details?id=com.thisisaim.hotfm | https://apps.apple.com/my/app/audio-formerly-hot-fm/id491064091 | 2.7
+28 | Journify: Travel & Lifestyle | Kotlin/Android | 100K+ | 4.6 | https://play.google.com/store/apps/details?id=com.journify.app | https://apps.apple.com/my/app/journify-travel-lifestyle/id1586730199 | 4.6
+29 | WeHealth | Kotlin/Android | 10K+ | 2.2 | https://play.google.com/store/apps/details?id=connected.healthcare.checkupasia | - | -
+30 | Lapasar Borong | Flutter | 50K+ | 4.7 | https://play.google.com/store/apps/details?id=com.lapasar.buyers_app | https://apps.apple.com/my/app/lapasar-borong/id1583783600 | 4.4
+31 | Warehouse Operation | Flutter | - | - | https://play.google.com/store/apps/details?id=com.lapasar.warehouseOperation | - | -
+32 | Sync | Flutter | 100K+ | 3.9 | https://play.google.com/store/apps/details?id=com.sync.apps.android.sync | - | -
+33 | Eats Venture | Flutter | 100+ | - | https://play.google.com/store/apps/details?id=com.shoppertise.eats.cashier | https://apps.apple.com/my/app/eats-venture/id1621054764 | 5.0
+34 | Sedapz | Kotlin/Android | 100K+ | 4.6 | https://play.google.com/store/apps/details?id=com.shoppertise.campfire.ca.sdp | - | -
+35 | Frank Laurent | Kotlin/Android | 10K+ | 4.3 | https://play.google.com/store/apps/details?id=com.shoppertise.campfire.ca.frl | - | -
+36 | Serendipitee | Kotlin/Android | 10+ | - | https://play.google.com/store/apps/details?id=com.shoppertise.campfire.ca.vkl | - | -
+37 | Easybook® Bus Train Ferry Tour | Kotlin/Android | 1M+ | 3.6 | https://play.google.com/store/apps/details?id=easiphone.easibookbustickets | https://apps.apple.com/my/app/easybook-bus-train-ferry-tour/id668514565 | 4.7
+38 | EIMA | Kotlin/Android | 1K+ | 4.4 | https://play.google.com/store/apps/details?id=com.eima.eima | - | -
+39 | Premium Clara Anindi | Kotlin/Android | 1+ | - | https://play.google.com/store/apps/details?id=com.easybook.ptpremiumclaraanindiabus | - | -
+40 | Putra Garuda Trans | Kotlin/Android | 1+ | - | https://play.google.com/store/apps/details?id=com.easybook.ptputragarudatrans | - | -
+41 | Railer - Face Attendance | Kotlin/Android | 5K+ | 5.0 | https://play.google.com/store/apps/details?id=com.railer.face | https://apps.apple.com/my/app/railer/id1330589291 | 5.0
+42 | Be U by Bank Islam | Kotlin/Android | 1M+ | 4.2 | https://play.google.com/store/apps/details?id=com.bankislam.beu | - | -
+
+
+SUMMARY BY TECHNOLOGY
+=====================
+Kotlin/Android: 16 apps
+Java/Android: 11 apps
+Flutter: 11 apps
+React Native: 6 apps
+Ionic/Flutter: 1 app
+
+TOTAL: 42 apps (26 with iOS versions)
+
+
+HIGHLIGHTS
+==========
+1M+ Downloads: Be U by Bank Islam, Easybook®
+500K+ Downloads: GetGo Carsharing, Prihatin PERKESO, Audio+
+100K+ Downloads: Journify, Sedapz, Sync
+
+5-Star Ratings: XeerSoft E-Leave, Railer, Fesyen Rasa Sayang (iOS), Maju Home Improvement (iOS), Chippi (iOS), Chippi Merchant (iOS), Eats Venture (iOS)
